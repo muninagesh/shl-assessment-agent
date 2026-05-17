@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Automata",
+    "link": "https://www.shl.com",
+    "description": "Java and software development assessment",
+    "job_levels": ["Entry", "Mid"],
+    "keys": ["Technical"]
+  },
+  {
+    "name": "OPQ",
+    "link": "https://www.shl.com",
+    "description": "Personality assessment",
+    "job_levels": ["Manager"],
+    "keys": ["Personality"]
+  }
+]
